@@ -73,7 +73,8 @@ mudassar = {
     <td width="33%" valign="top">
       <h3 align="center">🚗 Kashmir Drive</h3>
       <p align="center">
-        <a href="https://kashmir-drive.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Live%20Demo-FF6B00?style=for-the-badge" /></a>
+        <!-- TODO: replace href with your live URL when ready -->
+        <img src="https://img.shields.io/badge/📱%20In%20Production-FF6B00?style=for-the-badge" />
       </p>
       <p>InDrive-style ride-hailing app built for <b>Muzaffarabad</b>. Real-time driver matching, live GPS tracking, fare estimation, and a bilingual rider/driver UI.</p>
       <p align="center">
