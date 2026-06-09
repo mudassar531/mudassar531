@@ -68,6 +68,27 @@
 
 ---
 
+### 🧠 Research
+
+#### Qalb — Largest State-of-the-Art Urdu LLM (230M speakers)
+
+<p>
+  <a href="https://arxiv.org/abs/2601.08141">
+    <img src="https://img.shields.io/badge/arXiv-2601.08141-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv 2601.08141" />
+  </a>
+  <img src="https://img.shields.io/badge/Base%20Model-LLaMA%203.1%208B-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="LLaMA 3.1 8B" />
+  <img src="https://img.shields.io/badge/Trained%20with-Unsloth-FFAE00?style=for-the-badge" alt="Unsloth" />
+</p>
+
+**Paid contributor — data collection & corpus pipeline.**
+I built the Urdu web-scraping pipeline using **Crawl4AI**, contributing to the **1.84 billion Urdu tokens** that powered Qalb's continued pre-training (1.97B total corpus, including 140M English Wikipedia tokens to prevent catastrophic forgetting).
+
+Qalb continued-pre-trains LLaMA-3.1 8B on this corpus (with **Unsloth**), then fine-tunes on Alif Urdu-instruct, achieving a **weighted average of 90.34** across seven Urdu benchmarks — **+3.24 over Alif-1.0-Instruct** (prior SoTA) and **+44.64 over base LLaMA-3.1 8B-Instruct**.
+
+> *Hassan, Ahmed, Awais — "Qalb: Largest State-of-the-Art Urdu Large Language Model for 230M Speakers with Systematic Continued Pre-training," arXiv:2601.08141 (Jan 2026).*
+
+---
+
 ### Tech stack
 
 <p align="center">
@@ -75,10 +96,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMs-RAG%20%7C%20LoRA%20%7C%20HF-111827?style=flat-square" alt="LLMs" />
+  <img src="https://img.shields.io/badge/LLMs-RAG%20%7C%20LoRA%20%7C%20HF%20%7C%20Unsloth-111827?style=flat-square" alt="LLMs" />
   <img src="https://img.shields.io/badge/Vision-YOLO%20%7C%20ArcFace%20%7C%20Tracking-111827?style=flat-square" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/Voice-Deepgram%20%7C%20LiveKit%20%7C%20TTS-111827?style=flat-square" alt="Voice AI" />
   <img src="https://img.shields.io/badge/MLOps-FastAPI%20%7C%20Docker%20%7C%20Grafana-111827?style=flat-square" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Data-Crawl4AI%20%7C%20Scrapy%20%7C%20Playwright-111827?style=flat-square" alt="Data" />
 </p>
 
 ---
