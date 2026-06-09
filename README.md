@@ -16,7 +16,7 @@
 
  🤖 Building **real-time voice agents, LLM/RAG systems, and computer-vision products**
 
- 💬 Ask me about **Python, PyTorch, FastAPI, LiveKit, Deepgram, OpenAI, YOLO, RAG... or anything [here](https://www.linkedin.com/in/mudassar-awan-95b03922a/)**
+ 💬 Ask me about **Python, PyTorch, FastAPI, LiveKit, Deepgram, OpenAI, YOLO, RAG... or anything [here](https://www.linkedin.com/in/mudassar-a1b1c1d1)**
 
 </div>
 
@@ -24,7 +24,7 @@
   <a href="mailto:writetomudassarawan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/mudassar-awan-95b03922a/" target="_blank">
+  <a href="https://www.linkedin.com/in/mudassar-a1b1c1d1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/mudassar531" target="_blank">
