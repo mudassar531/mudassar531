@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=620&lines=Software+Engineer+I+%40+NavAI;Voice+AI+Engineer+%40+NavAI;New+at+Ember+AI+%F0%9F%94%A5;Real-time+voice+agents+%F0%9F%8E%99%EF%B8%8F+%C2%B7+LLMs+%C2%B7+RAG+%C2%B7+CV" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=620&lines=Voice+AI+Engineer+%40+NavAI;Software+Engineer+I+%40+Ember+AI;Real-time+voice+agents+%F0%9F%8E%99%EF%B8%8F;LLMs+%C2%B7+RAG+%C2%B7+Computer+Vision" />
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=mudassar531&label=Profile%20views&color=ff6b00&style=for-the-badge" alt="profile views" />
@@ -24,9 +24,10 @@
 
 ```python
 mudassar = {
-    "role":     ["Software Engineer I", "Voice AI Engineer"],
-    "company":  "NavAI",
-    "orgs":     ["NavAI", "Ember AI"],
+    "roles": {
+        "NavAI":    "Voice AI Engineer",
+        "Ember AI": "Software Engineer I",
+    },
     "stack":    ["Python", "PyTorch", "FastAPI", "LiveKit", "Deepgram", "OpenAI"],
     "building": ["real-time voice agents", "LLM / RAG systems", "CV products"],
     "learning": ["vLLM", "distributed training", "advanced LiveKit patterns"],
@@ -35,8 +36,8 @@ mudassar = {
 }
 ```
 
-- 🎙️ **Software Engineer I** & **Voice AI Engineer** @ [**NavAI**](https://navai.pro/)
-- 🔥 Recently joined the [**Ember AI**](https://ember.new/) organization
+- 🎙️ **Voice AI Engineer** @ [**NavAI**](https://navai.pro/)
+- 🔥 **Software Engineer I** @ [**Ember AI**](https://ember.new/)
 - 🤖 Shipping real-time voice agents, LLM/RAG systems, and computer-vision products
 - 🌱 Currently leveling up on **vLLM**, **distributed training**, **advanced LiveKit patterns**
 - 📫 Reach me at **writetomudassarawan@gmail.com**
@@ -164,12 +165,12 @@ mudassar = {
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mudassar531&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff6b00&icon_color=00d4ff&text_color=c9d1d9" />
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=mudassar531&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff6b00&icon_color=00d4ff&text_color=c9d1d9" />
   <img height="180" src="https://streak-stats.demolab.com?user=mudassar531&theme=tokyonight&hide_border=true&background=0d1117&stroke=ff6b00&ring=ff6b00&fire=00d4ff&currStreakLabel=ff6b00" />
 
   <br/>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassar531&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b00&text_color=c9d1d9&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mudassar531&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b00&text_color=c9d1d9&langs_count=8" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mudassar531&theme=tokyonight" />
 
 </div>
@@ -188,7 +189,7 @@ mudassar = {
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mudassar531&theme=tokyonight&row=1&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=false" />
+    <img src="https://github-profile-trophies.vercel.app/?username=mudassar531&theme=tokyonight&row=1&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=false" />
   </a>
 </div>
 
