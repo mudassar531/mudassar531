@@ -1,6 +1,6 @@
 # Mudassar Awan
 
-AI Vision Engineer · Pakistan
+Software Engineer I · Pakistan
 
 Building production computer-vision and ML systems; exploring LLMs and RAG.
 
