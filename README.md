@@ -25,7 +25,7 @@
 > One command turns any YouTube video, podcast, or local recording into clean, timestamped, **LLM-ready markdown**. Captions-first, automatic local Whisper fallback, and an **MCP server** so AI agents can ingest media themselves.
 
 <div align="center">
-  <a href="https://github.com/mudassar531/hearsay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mudassar531&repo=hearsay&theme=tokyonight&hide_border=true&border_radius=12" alt="hearsay" /></a>
+  <a href="https://github.com/mudassar531/hearsay"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mudassar531&repo=hearsay&theme=dracula&hide_border=true&border_radius=12" alt="hearsay" /></a>
   <br/><br/>
   <a href="https://github.com/mudassar531/hearsay"><img src="https://raw.githubusercontent.com/mudassar531/hearsay/main/demo/demo.gif" width="640" alt="hearsay demo" /></a>
   <br/>
@@ -68,16 +68,16 @@
 ## 📊 GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mudassar531&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassar531&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mudassar531&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassar531&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mudassar531&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=mudassar531&theme=dracula&hide_border=true" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mudassar531&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mudassar531&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
 </div>
 
 ---
